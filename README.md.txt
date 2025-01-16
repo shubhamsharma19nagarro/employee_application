@@ -1,5 +1,4 @@
 # employee_application
-# employee_application
 **purpose** 
 This is docker based application which have some crud operations.
 We have two Rest API in this employee application, one API is to get all employees and second one is to add or create employees.
